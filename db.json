@@ -1,0 +1,60 @@
+{
+  "Product": [
+    {
+      "ıd": 1,
+      "image": "https://picsum.photos/200",
+      "title": "Oyuncak Araba",
+      "price": 21,
+      "About": " Düşer аklımа bomboş "
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/201",
+      "title": "Oyuncak Araba 2",
+      "price": 32,
+      "About": "Bir cümle daha"
+    },
+    {
+      "id": 3,
+      "image": "https://picsum.photos/202",
+      "title": "Oyuncak Araba 3",
+      "price": 45,
+      "About": "Bir açıklama metni"
+    },
+    {
+      "id": 4,
+      "image": "https://picsum.photos/203",
+      "title": "Oyuncak Araba 4",
+      "price": 12,
+      "About": "Yeni bir açıklama"
+    },
+    {
+      "id": 5,
+      "image": "https://picsum.photos/204",
+      "title": "Oyuncak Araba 5",
+      "price": 18,
+      "About": "Başka bir açıklama"
+    },
+    {
+      "id": 6,
+      "image": "https://picsum.photos/205",
+      "title": "Oyuncak Araba 6",
+      "price": 29,
+      "About": "Açıklama metni"
+    },
+    {
+      "id": 7,
+      "image": "https://picsum.photos/206",
+      "title": "Oyuncak Araba 7",
+      "price": 37,
+      "About": "Farklı bir metin"
+    },
+    {
+      "id": 8,
+      "image": "https://picsum.photos/207",
+      "title": "Oyuncak Araba 8",
+      "price": 24,
+      "About": "Yeni açıklama"
+    }
+  ]
+}
